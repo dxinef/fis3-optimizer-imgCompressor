@@ -1,0 +1,28 @@
+{
+  "name": "fis3-optimizer-imgCompressor",
+  "version": "0.1.0",
+  "description": "fis3 img(png,jpg,gif) compressor",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 1"
+  },
+  "keywords": [
+    "fis",
+    "fis3",
+    "optimizer",
+    "image",
+    "compress",
+    "compressor"
+  ],
+  "author": "dxinef",
+  "license": "ISC",
+  "dependencies": {
+    "is-gif": "^1.0.0",
+    "is-jpg": "^1.0.0",
+    "is-png": "^1.0.0",
+    "gifsicle": "^3.0.4",
+    "jpegoptim-bin": "3.0.0",
+    "upng-js": "2.0.0",
+    "uuid": "3.1.0"
+  }
+}
