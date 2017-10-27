@@ -1,6 +1,6 @@
 {
   "name": "fis3-optimizer-img-compressor",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "fis3 img(png,jpg,gif) compressor",
   "main": "index.js",
   "dependencies": {},
